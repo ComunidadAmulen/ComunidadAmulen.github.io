@@ -58,4 +58,4 @@ markdown: kramdown
 links:
     -title: Home
      url:/
-     url:/index
+     url:/index.html
