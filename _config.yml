@@ -9,7 +9,7 @@ owner: Amulen
 first_published: 2018 
 email: comunidadamulen@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://comunidadamulen.github.io/" # the base hostname & protocol for your site
+url: index.html # the base hostname & protocol for your site
 social:
   #twitter: https://twitter.com/<username>
   #github: https://github.com/<username>
@@ -55,3 +55,7 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
+links:
+    -title: Home
+     url:/
+     url:/index
